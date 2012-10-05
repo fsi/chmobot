@@ -1,0 +1,12 @@
+{
+    "username": "bot_account_here@example.com", 
+    "ownerjids": [
+        "owner@example.com"
+    ], 
+    "resource": "chmobot 0.1.0", 
+    "conferences": [], 
+    "modules": [
+    ], 
+    "password": "your password here", 
+    "nickname": "c-bot"
+}
